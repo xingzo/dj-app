@@ -1,7 +1,7 @@
 # dj app
 ## Summary
 
-A professional online platform for Dj Shinski.
+A professional online platform for a Dj to connect with his/her fans.
 
 ## Planning Documents
 
